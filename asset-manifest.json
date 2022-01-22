@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dc86ce3.css",
-    "main.js": "/static/js/main.d913e6ae.js",
-    "index.html": "/index.html",
-    "main.5dc86ce3.css.map": "/static/css/main.5dc86ce3.css.map",
-    "main.d913e6ae.js.map": "/static/js/main.d913e6ae.js.map"
+    "main.css": "/suhailansari2019/ExpenseRecordwithReactJs.git/static/css/main.5dc86ce3.css",
+    "main.js": "/suhailansari2019/ExpenseRecordwithReactJs.git/static/js/main.d913e6ae.js",
+    "index.html": "/suhailansari2019/ExpenseRecordwithReactJs.git/index.html",
+    "main.5dc86ce3.css.map": "/suhailansari2019/ExpenseRecordwithReactJs.git/static/css/main.5dc86ce3.css.map",
+    "main.d913e6ae.js.map": "/suhailansari2019/ExpenseRecordwithReactJs.git/static/js/main.d913e6ae.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc86ce3.css",
